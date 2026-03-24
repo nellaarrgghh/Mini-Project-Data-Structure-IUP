@@ -263,21 +263,30 @@ The program ends successfully.
 
 ## How to Run
 1. Run in your terminal
-	![[Pasted image 20260324215709.png]]
+   ![Terminal Start](assets/Pasted%20image%2020260324215709.png)
 	
 2. Add song to playlist
-	![[Pasted image 20260324215943.png]]
+   ![Add Song](assets/Pasted%20image%2020260324215943.png)
+   
 3. Keep adding!
-	![[Pasted image 20260324220737.png]]
+   ![Keep adding](assets/Pasted%20image%2020260324220737.png)
+   
 4. Since you don't have anything played in your playlist, if u press 2:
-	![[Pasted image 20260324221123.png]]
-	And if u press 3:
-	![[Pasted image 20260324221207.png]]
+   ![Empty Queue](assets/Pasted%20image%2020260324221123.png)
+   
+   And if u press 3:
+   ![Empty Stack](assets/Pasted%20image%2020260324221207.png)
+   
 5. After pressing 2, you are currently listening to "No Batidao". you can press 2 to listen to "Ambatakam Ambashing".
-	![[Pasted image 20260324222006.png]]
+   ![Play Next](assets/Pasted%20image%2020260324222006.png)
+   
 6. Now, for the replay feature
-	![[Pasted image 20260324222056.png]]
-	As you can see here, if u pick 3 once, it will replay the currently played song. Just like how irl replay button works! If u chose 3 again, it will play to the previous song.
+   ![Replay feature](assets/Pasted%20image%2020260324222056.png)
+   
+   As you can see here, if u pick 3 once, it will replay the currently played song. Just like how irl replay button works! If u chose 3 again, it will play to the previous song.
+   
 7. Finish listening? Pick option 4 to exit.
-	![[Pasted image 20260324222708.png]]
-## Demonstration [[https://drive.google.com/file/d/1PKWWcdX5mGecjfOf4YFzmPV_3R9bx4bj/view?usp=sharing]]
+   ![Exit program](assets/Pasted%20image%2020260324222708.png)
+
+## Demonstration 
+[Watch the Demonstration Video Here](https://drive.google.com/file/d/1PKWWcdX5mGecjfOf4YFzmPV_3R9bx4bj/view?usp=sharing)
